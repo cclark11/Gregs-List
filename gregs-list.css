@@ -1,0 +1,95 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  border:0;
+}
+main{
+	font-family: 'Roboto', sans-serif;
+
+}
+nav{
+	background-color:lightgrey;
+	font-size:18px;
+}
+.logo{
+	position:absolute;
+	padding-left: 15px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+ul{
+	list-style: none;
+	position:relative;
+	text-align: right;
+	padding-right:15px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+li{
+	display:inline-block;
+}
+
+.greyborder{
+	color:lightgrey;
+	border-radius: 5px;
+    border: 1px solid lightgrey;
+    height: 20px; 
+    margin-top:25px;
+    padding-left:4px;
+    padding-right:4px;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+.longer{
+	width:400px;
+}
+.button{
+	background-color: white;
+	border-radius: 2px;
+    border: 1px solid lightgrey;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.pages{
+	margin-top:25px;
+    padding:0;
+}
+
+.regborder {
+	border: 1px solid lightgrey;
+	padding: 1.4px;
+	font-size: 14px;
+}
+.grey{
+	color:lightgrey;
+}
+.list{
+	font-size:12px;
+	padding-top:40px;
+}
+.padding-10{
+	padding-left: 10px;
+}
+.date, .location {
+	color:lightgrey;
+}
+.project{
+	color:blue;
+	font-weight:bold;
+}
+.indent{
+	margin-left:70px;
+}
+.fa-star:hover{
+	color:yellow;
+}
+.margin{
+	margin-bottom:10px;
+}
+.purple{
+	color:purple;
+}
+a{
+	text-decoration:none;
+}
