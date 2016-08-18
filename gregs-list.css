@@ -1,5 +1,5 @@
 html, body {
-  margin: 0;
+  margin:0;
   padding: 0;
   height: 100%;
   border:0;
@@ -25,6 +25,7 @@ ul{
 	padding-right:15px;
 	padding-bottom:10px;
 	padding-top:10px;
+	margin:0;
 }
 li{
 	display:inline-block;
@@ -49,7 +50,7 @@ li{
 	border-radius: 2px;
     border: 1px solid lightgrey;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
 }
 .pages{
 	margin-top:25px;
@@ -59,13 +60,13 @@ li{
 .regborder {
 	border: 1px solid lightgrey;
 	padding: 1.4px;
-	font-size: 14px;
+	font-size: 16px;
 }
 .grey{
 	color:lightgrey;
 }
 .list{
-	font-size:12px;
+	font-size:16px;
 	padding-top:40px;
 }
 .padding-10{
